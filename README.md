@@ -16,3 +16,6 @@
 
 ## ***DISCLAIMER***
 This PCB has been tested and confirmed to work properly. The members of the PCB development team are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted. RGB matrix firmware has not yet been written.
+
+
+This fork specifically has been tested and confirmed to work properly, but neither I (@Alasofia) or the original creators will provide guarantees or support.
